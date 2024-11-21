@@ -9,10 +9,10 @@ I'm a Software Engineer currently studying in University for my B.sc in Software
 ### ✨ MY GITHUB STATS ✨
 
 <a href="https://github.com/sableoxide">
-  <img height=200 align="center" src="https://github-readme-stats-drab-pi.vercel.app/api?username=sableoxide&show_icons=true&rank_icon=default&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-drab-pi.vercel.app/api?username=Sableoxide&show_icons=true&rank_icon=default&theme=dark" />
 </a>
 <a href="https://github.com/sableoxide">
-  <img height=200 align="center" src="https://github-readme-stats-drab-pi.vercel.app/api/top-langs?username=sableoxide&layout=compact&langs_count=10&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-drab-pi.vercel.app/api/top-langs?username=Sableoxide&layout=compact&langs_count=10&card_width=320&theme=dark" />
 </a>
 
 <!--
